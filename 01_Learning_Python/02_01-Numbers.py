@@ -1,0 +1,7 @@
+print(5) 			# Outputs number "5"
+print(-10)			# Outputs number "-10"
+print(3.14)			# Outputs number "3.14"
+print(1000)			# Outputs number "1000"
+print(5+3)			# Outputs number "8"
+print(2*8)			# Outputs number "16"
+print(3*(3+1))		# Outputs number "12"
